@@ -3,6 +3,7 @@ __pycache__
 build/
 dist/
 env/
+venv/
 docs/_build
 .idea
 .mypy_cache
